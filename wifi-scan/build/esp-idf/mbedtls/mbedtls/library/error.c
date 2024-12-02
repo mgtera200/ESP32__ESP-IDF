@@ -1,1 +1,0 @@
-/home/eng-tera/esp/esp-idf/components/mbedtls/mbedtls/library/error.c
